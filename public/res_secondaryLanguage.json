@@ -1,18 +1,18 @@
 {
   "basic_info": {
-    "description_header": "Cześć",
+    "description_header": "Hola!",
     "description": "👋 Actualmente, un maestro de educación en el hogar K-2 inspirado en la pandemia y Trekkie desde hace mucho tiempo, Vida es un ávido fanático de los cachorros de todas las edades y la vida en realidad virtual. Habiendo completado su Licenciatura en Ciencias en Estudios Interdisciplinarios (Inglés/Matemáticas), Asociado en Ciencias en Ciencias Puras y una certificación de coctelería cuando disfrutaba salir de casa, actualmente está trabajando para obtener una certificación de Desarrollo de Software Avanzado en Full-Stack JavaScript. ⭐ ¡Gracias por tomarse el tiempo para conocer un poco sobre ella!💜",
     "section_name": {
       "about": "Sobre Vida",
       "projects": "Las Pasiones",
       "skills": "Habilidades",
-      "experience": "Experiencias"Experiences
+      "experience": "Experiencias"
     }
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
+      "title": "Refugio de animales",
+      "startDate": "2014-2020",
       "description": "Aunque ya tenía un historial establecido de alimentación y cuidado de perros callejeros, mis aventuras en el rescate canino organizado comenzaron como resultado de una apuesta perdida con un amigo. Después de haber sido superado en una prueba, tuve que ofrecerme como voluntario para un turno de trabajo con razas de matones rescatadas. Bueno, me enamoré de él y pasé años trabajando con matones, Golden Retrievers y varias otras razas y mezclas, enamorándome de cada cara peluda en el camino. En los años intermedios, mi propia manada de furkids también creció.",
       "images": [
         "images/portfolio/animal-shelter/GrassPupsYard.jpeg",
@@ -37,12 +37,12 @@
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+      "title": "Teaching",
+      "startDate": "2020-Presente",
+      "description": "La pandemia me inspiró a acelerar un plan previamente establecido para mudarme a mi hogar en las Carolinas desde Houston, TX. Comencé supervisando/enseñando a dos sobrinos y una sobrina para el año escolar 2020-2021 y me fue tan bien que me convertí en el maestro de tiempo completo de los dos niños para el año escolar 2021-2022. Desafortunadamente, debido a problemas de logística, mi sobrina no asistió el año pasado, pero regresará junto con su hermana pequeña para 2022-2023.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/photography/colors.jpg",
+        "images/portfolio/photography/teach1.jpg"
       ],
       "url": "https://github.com",
       "technologies": [
@@ -57,12 +57,12 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "title": "Star Trek",
+      "startDate": "Siempre",
+      "description": "He sido trekkie desde que vi mi primer episodio de The Original Series cuando estaba en la escuela primaria. El Trekverse de diversidad, inclusión, cooperación y aventura científica resume bastante bien mi idea de un universo perfecto. ¡Actualmente estoy trabajando para obtener una certificación de desarrollador de JavaScript de pila completa con el objetivo final de hacer contribuciones significativas para dar vida a la visión de Roddenberry en realidad virtual!",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/adventure/enterpriseDcreativecommons.jpg",
+        "images/portfolio/adventure/vrFromUnsplash.jpg"
       ],
       "url": "https://github.com",
       "technologies": [

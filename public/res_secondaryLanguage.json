@@ -37,7 +37,7 @@
       ]
     },
     {
-      "title": "Teaching",
+      "title": "Ensenando",
       "startDate": "2020-Presente",
       "description": "La pandemia me inspiró a acelerar un plan previamente establecido para mudarme a mi hogar en las Carolinas desde Houston, TX. Comencé supervisando/enseñando a dos sobrinos y una sobrina para el año escolar 2020-2021 y me fue tan bien que me convertí en el maestro de tiempo completo de los dos niños para el año escolar 2021-2022. Desafortunadamente, debido a problemas de logística, mi sobrina no asistió el año pasado, pero regresará junto con su hermana pequeña para 2022-2023.",
       "images": [
@@ -83,35 +83,52 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - obecnie",
+      "company": "Code Fellows",
+      "title": "Full-Stack JavaScript Developer Student",
+      "years": "03.2022 - present",
       "mainTech": [
-        "Angular 8/9/10"
+        "JavaScript"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
+        "Git/GitHub",
         "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        "Angular Material"
+        "JSx",
+        "React-Bootstrap",
+        "HTML5",
+        "CSS3",
+        "REST API",
+        "Netlify",
+        "Heroku"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Stażystka",
-      "years": "01.2018 - 09.2019",
+      "company": "Friendship Academy",
+      "title": "K-2 Teacher",
+      "years": "08.2021 - Present",
       "mainTech": [
-        "Angular 7/8"
+        "Time4Learning.com"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "Swagger",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "MS Office Package",
+        "Zoom",
+        "TeamViewer",
+        "GetEpic.com"
+      ]
+    },
+    {
+      "company": "Golden Retriever Acres Senior Sanctuary (GRASS)",
+      "title": "Grantwriting/Fundraising Team Lead (Volunteer)",
+      "years": "01.2016 - 01.2020",
+      "mainTech": [
+        "AirTable.com"
+      ],
+      "technologies": [
+        "MS Office Package",
+        "Wordpress",
+        "WooCommerce",
+        "Adobe Illustrator",
+        "ShelterAnimalsCount.com",
+        "GoogleDrive"
       ]
     }
   ]
